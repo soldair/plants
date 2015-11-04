@@ -1,0 +1,29 @@
+{
+  "name": "plants",
+  "version": "1.0.0",
+  "description": "open source tools for plant health monitoring via photosynthesis sensors",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soldair/plants.git"
+  },
+  "keywords": [
+    "plants",
+    "grow",
+    "local",
+    "food",
+    "nodebots",
+    "bot",
+    "nodebot",
+    "j5"
+  ],
+  "author": "Ryan Day <soldair@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soldair/plants/issues"
+  },
+  "homepage": "https://github.com/soldair/plants#readme"
+}
